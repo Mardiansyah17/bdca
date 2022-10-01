@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bdca/static/css/main.93d76786.css",
-    "main.js": "/bdca/static/js/main.9bbf15da.js",
+    "main.css": "/bdca/static/css/main.c39cfb59.css",
+    "main.js": "/bdca/static/js/main.e9a2eb1c.js",
     "static/js/787.a92565cd.chunk.js": "/bdca/static/js/787.a92565cd.chunk.js",
     "static/media/Teams.png": "/bdca/static/media/Teams.f99bfc1dd223f5b059ea.png",
     "static/media/logo-bdca.png": "/bdca/static/media/logo-bdca.19c7a6d04464dc0df0bc.png",
@@ -10,12 +10,12 @@
     "static/media/poppins-latin-400-normal.woff2": "/bdca/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
     "static/media/poppins-latin-ext-400-normal.woff2": "/bdca/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
     "index.html": "/bdca/index.html",
-    "main.93d76786.css.map": "/bdca/static/css/main.93d76786.css.map",
-    "main.9bbf15da.js.map": "/bdca/static/js/main.9bbf15da.js.map",
+    "main.c39cfb59.css.map": "/bdca/static/css/main.c39cfb59.css.map",
+    "main.e9a2eb1c.js.map": "/bdca/static/js/main.e9a2eb1c.js.map",
     "787.a92565cd.chunk.js.map": "/bdca/static/js/787.a92565cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93d76786.css",
-    "static/js/main.9bbf15da.js"
+    "static/css/main.c39cfb59.css",
+    "static/js/main.e9a2eb1c.js"
   ]
 }
